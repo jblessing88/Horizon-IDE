@@ -1,0 +1,5 @@
+[font type]:DejaVu Sans Condensed
+[font size]:16
+[scheme]:DESERT
+[word wrap]:true
+[auto complete]:true
