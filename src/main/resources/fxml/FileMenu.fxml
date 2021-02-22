@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.MenuItem?>
+
+<fx:root
+        type="javafx.scene.control.Menu"
+        xmlns="http://javafx.com/javafx"
+        xmlns:fx="http://javafx.com/fxml"
+        fx:controller="main.kotlin.views.FileMenu">
+
+    <MenuItem onAction="#new" text="%menu.file.new"/>
+    <MenuItem onAction="#open" text="%menu.file.open"/>
+    <MenuItem onAction="#save" text="%menu.file.save"/>
+    <MenuItem onAction="#saveAs" text="%menu.file.saveas"/>
+    <MenuItem onAction="#saveAll" text="%menu.file.saveall"/>
+    <MenuItem onAction="#print" text="%menu.file.print"/>
+    <MenuItem onAction="#close" text="%menu.file.close"/>
+
+</fx:root>

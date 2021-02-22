@@ -1,5 +1,0 @@
-[font type]:Inconsolata-g
-[font size]:12
-[scheme]:PLAIN
-[word wrap]:false
-[auto complete]:true
